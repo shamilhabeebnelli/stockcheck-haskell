@@ -93,4 +93,6 @@ ghc -Wall -Werror Test.hs -o stockcheck-tests
 - Open reports as text, or import text columns explicitly as text in a spreadsheet. Untrusted product names or SKUs can contain spreadsheet formula syntax; CSV quoting does not neutralize formulas.
 - No database, barcode scanning, automatic ERP import, valuation for unknown items or graphical interface is included.
 
-Copyright 2026 shamilhabeebnelli. All rights reserved. No reuse license is granted.
+## License
+
+MIT License. Copyright (c) 2026 shamilhabeebnelli. See [LICENSE](LICENSE). The license covers this original code and documentation. It does not grant trademark rights or override licenses on separately installed dependencies or imported third-party content.
