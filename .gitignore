@@ -1,0 +1,6 @@
+*.hi
+*.o
+/dist-newstyle/
+/stockcheck
+/stockcheck-tests
+/report.csv
