@@ -3,7 +3,8 @@ name: stockcheck
 version: 0.1.0.0
 synopsis: Offline CSV stock reconciliation with exact arithmetic
 build-type: Simple
-license: AllRightsReserved
+license: MIT
+license-file: LICENSE
 
 executable stockcheck
   main-is: Main.hs
